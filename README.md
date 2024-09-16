@@ -1,8 +1,8 @@
 # Some useful functions for images and videos treatments using CUPY and NVIDIA GPU computing (CUDA)
 
 *********
-Licence :
-*********
+__LICENCE :__
+
 Fast_NLM2_CUPY_Image_Colour.py and KNN_CUPY_Image_Colour.py code are free of use for any kind of use.
 
 For all other programs and code :
