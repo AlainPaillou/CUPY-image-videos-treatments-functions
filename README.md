@@ -7,11 +7,11 @@ For all other programs and code :
 They are free of use for personal use only. Any kind of profesional or/and commercial use of those codes or parts of codes is not allowed. If you want to use those codes or parts of codes for profesional or/and commercial uses, you will have to ask my permission.
 
 You will have to install :
-CUDA SDK (you will need a NVidia GPU)
-Python (i recommend Python 3.11)
-Numpy
-OpenCV (no need to get a CUDA version of OpenCV)
-Cupy (see : https://cupy.dev/)
+- CUDA SDK (you will need a NVidia GPU)
+- Python (i recommend Python 3.11)
+- Numpy
+- OpenCV (no need to get a CUDA version of OpenCV)
+- Cupy (see : https://cupy.dev/)
 
 All those programs use CUPY and CUPY raw kernels to perform GPU computing in order to speedup treatments time
 
