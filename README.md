@@ -8,6 +8,7 @@ Fast_NLM2_CUPY_Image_Colour.py and KNN_CUPY_Image_Colour.py code are free of use
 For all other programs and code :
 They are free of use for personal use only. Any kind of profesional or/and commercial use of those codes or parts of codes is not allowed. If you want to use those codes or parts of codes for profesional or/and commercial uses, you will have to ask my permission.
 
+**************************
 You will have to install :
 - CUDA SDK (you will need a NVidia GPU)
 - Python (i recommend Python 3.11)
