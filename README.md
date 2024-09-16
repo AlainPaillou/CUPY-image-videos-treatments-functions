@@ -1,4 +1,4 @@
-# Some useful functions for images and videos treatments
+# Some useful functions for images and videos treatments using CUPY and NVIDIA GPU computing (CUDA)
 
 *********
 Licence :
