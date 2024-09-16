@@ -22,21 +22,27 @@ All those programs use CUPY and CUPY raw kernels to perform GPU computing in ord
 2024-09-16 :
 ************
 
-Fast_NLM2_CUPY_Image_Colour.py :
+__Fast_NLM2_CUPY_Image_Colour.py :__
+
 This programm performs a Fast NLM2 noise removal filter on an image. It could also be use for video treatment
 
-KNN_CUPY_Image_Colour.py :
+__KNN_CUPY_Image_Colour.py :__
+
 This programm performs a KNN noise removal filter on an image. It could also be use for video treatment
 
-AANR_CUPY_Video.py :
+__AANR_CUPY_Video.py :__
+
 This program performs an adaptative absorber noise removal filter on a video. This filter can only be used with a video because it needs 2 consecutives frames to perform the treatment. It is a personal filter which perform really great with quite static video.
 
-3FNR_CUPY_Video.py :
+__3FNR_CUPY_Video.py :__
+
 This program performs a 3 frames noise removal filter on a video. This filter can only be used with a video because it needs 3 consecutives frames to perform the treatment. It is a personal filter which perform really great with quite static video.
 
-RAW_Video_debayer_CUPY.py :
+__RAW_Video_debayer_CUPY.py :__
+
 This programs apply a debayer filter on a RAW video (bayer matrix, 1 channel). The debayer result is more precise than classic OpenCV debayer function
 
-Fast_Image_Colour_Saturation_CUPY.py :
+__Fast_Image_Colour_Saturation_CUPY.py :__
+
 This program performs a colour saturation enhancement on a colour image. The colour enhancement can be set very high without destroying sharpness and detais of the base image. It is a personal filter which perform really great
 
