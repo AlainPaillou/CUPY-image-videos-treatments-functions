@@ -1,6 +1,8 @@
 # Some useful functions for images and videos treatments
 
+*********
 Licence :
+*********
 Fast_NLM2_CUPY_Image_Colour.py and KNN_CUPY_Image_Colour.py code are free of use for any kind of use.
 
 For all other programs and code :
